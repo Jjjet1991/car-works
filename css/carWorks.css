@@ -1,0 +1,59 @@
+.hero-image {
+    background-image: url("blackCar.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+
+#motto {
+    background-color: black;
+    color:white;
+    text-align: center;
+    height: 80px;
+    padding-top:20px;    
+}
+
+h6 {
+    font-size: 25px;
+}
+
+.nav-link {
+    color:white;
+}
+
+.card-group {
+    margin-top: 15px;
+    padding: 5px;
+    border: none;
+}
+
+.card {
+    border: none;
+    margin:5px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+#middle-card{
+    border-left:solid black 1px;
+    border-right:solid black 1px;
+}
+
+.largePhoto {
+    box-shadow: 7px 7px 3px gray;
+}
+
+.contact-info {
+    padding: 15px;
+    text-align: center;
+    color:white;
+}
+
+.contact {
+    font-size: 15px;
+    line-height: 2.75px;
+}
