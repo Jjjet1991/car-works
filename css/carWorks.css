@@ -11,18 +11,21 @@
     background-color: black;
     color:white;
     text-align: center;
-    height: 80px;
-    padding-top:20px;    
+    height: 100px;
+    padding:20px;
+    font-family: 'Goldman', cursive;   
 }
 
 h6 {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .nav-link {
     color:white;
     font-size: 20px;
+    font-family: 'Space Grotesk', sans-serif;
 }
+
 
 .nav-link:hover{
     color: red;
@@ -66,9 +69,17 @@ h6 {
     font-size: 3.25em;
     text-align: center;
     margin:15px;
+    
+}
+
+.btn {
 }
 
 .btn:hover{
     background-color: lightgray;
 }
 
+.carWorks {
+    font-size: 20px;
+
+}
