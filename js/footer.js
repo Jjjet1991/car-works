@@ -6,7 +6,7 @@ class Footer extends HTMLElement {
  connectedCallback(){
      this.innerHTML = `
      <footer>
-  <div style="background-color: black;width:100%;height:170px;">
+  <div style="background-color: black;width:100%;height:170px;position:absolute;">
       <div class="contact-info">
       <p style="font-size:20px; text-decoration:underline;">Car Works</p>
       <p class="contact">421 S. Dishman Mica Rd</p>

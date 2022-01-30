@@ -8,7 +8,7 @@ connectedCallback() {
     this.innerHTML=`
         
     <nav class="navbar navbar-expand-lg navbar-light">
-    <a href="#" class="navbar-brand logo"><img src="./images/carWorksLogo.png" alt=""></a>
+    <a href="index.html" class="navbar-brand logo"><img src="./images/carWorksLogo.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon" style="color:white;background-color: white;"></span>
   </button>

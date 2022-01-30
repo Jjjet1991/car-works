@@ -12,6 +12,9 @@
 .navbar-collapse {
     background-color: black;
     z-index: 999;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     }
 
 /*Styling for Index*/
@@ -100,4 +103,15 @@ h6 {
 
 .carWorks {
     font-size: 20px;
+}
+
+.container {
+    position:relative;
+    min-height: 100vh;
+}
+
+#footer {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
 }
