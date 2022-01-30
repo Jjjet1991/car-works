@@ -101,6 +101,19 @@ h6 {
     
 }
 
+#contact-info {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5%;
+}
+.contactList {
+    padding-top:25px;
+    font-size: 15px;
+    text-align:left;
+    list-style: none;
+    font-size: 17;
+}
+
 .carWorks {
     font-size: 20px;
 }
@@ -113,5 +126,4 @@ h6 {
 #footer {
     position:absolute;
     bottom: 0;
-    width: 100%;
 }
