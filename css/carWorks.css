@@ -1,12 +1,12 @@
 /*Styling for NavBar*/
 #logo {
     width:60px;
-    height:60px;
+    height:58px;
 }
 
 .navbar-light {
    background-color: black;
-   height: 150px;
+   height: 127px;
 }
 
 .navbar-collapse {
