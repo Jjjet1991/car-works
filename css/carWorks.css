@@ -6,11 +6,12 @@
 
 .navbar-light {
    background-color: black;
-   height: 100px;
+   height: 150px;
 }
 
 .navbar-collapse {
     background-color: black;
+    z-index: 999;
     }
 
 /*Styling for Index*/
